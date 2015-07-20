@@ -17,6 +17,7 @@ package jugueton;
 public class Mecanico extends Juguete
 {
     private int complejidad;
+    String hola;
 
     public Mecanico(int complejidad, int codigo, float valorUnitario, String marca, int edad, float valorAdicional, int numProveedor) {
         super(codigo, valorUnitario, marca, edad, valorAdicional, numProveedor);
