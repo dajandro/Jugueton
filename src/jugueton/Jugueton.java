@@ -11,6 +11,7 @@ package jugueton;
  */
 public class Jugueton {
     String olakase; 
+    String fongEsMula;
     /**
      * @param args the command line arguments
      */
