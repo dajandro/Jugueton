@@ -16,12 +16,12 @@ package jugueton;
 
 public class Juguete
 {
-	private int codigo;
-        private float valorUnitario;
-	private String marca;
-	private int edad;
-	private float valorAdicional;
-	private int numProveedor;
+    private int codigo;
+    private float valorUnitario;
+    private String marca;
+    private int edad;
+    private float valorAdicional;
+    private int numProveedor;
 
     public Juguete(int codigo, float valorUnitario, String marca, int edad, float valorAdicional, int numProveedor) {
         this.codigo = codigo;
